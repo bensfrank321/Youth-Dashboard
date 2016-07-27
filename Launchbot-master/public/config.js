@@ -26,7 +26,7 @@ var launchbotConfig = {
         // Add more sets below, don’t forget to add a comma after the previous set.
     ],
     // For favorites bar, enter absolute URIs 'http://', 'https://', 'ftp://' …
-    favs: [
+    /*favs: [
         'http://digitalharbor.org', 
         'http://youth.digitalharbor.org/',        
         'https://mail.google.com', 
@@ -38,7 +38,7 @@ var launchbotConfig = {
         'https://news.ycombinator.com', 
         'http://onethingwell.org',
         'http://brettterpstra.com'
-    ],
+    ],*/
    /* images: [
         'images/DHF-Logo-Learn.png', 
         'images/DHF-Logo.png',
